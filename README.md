@@ -22,7 +22,7 @@ Certainly, Mehrajul Islam (Kaspie), a skilled front-end web developer, is known 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: kaspiemehara5052@gmail.com & social media 
 
-
+## ☕ Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itsmeharazz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/itsmeharazz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/itsmeharazz/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeharazz)](https://github.com/anuraghazra/github-readme-stats)
