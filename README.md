@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-6/383971919_298766656221215_9014238538260857040_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF8SREPgcH4W60QdRv4N1Dzvtos8EhjZ6u-2izwSGNnq7mUBIdAeLX0p_Tb-TQvOylq6V5xVktAdothyBEmYk_d&_nc_ohc=qp4QPIh8CgEAX-_L-yC&_nc_ht=scontent.fzyl1-1.fna&oh=00_AfAJ7El_01ZNvRCWTOb7HGMP_yUQfp3cU3ROp_Nf_krY7A&oe=6546A86A)
+
 
 # Hi there 👋, I'm Meharazul Islam (Kaspie)
 
@@ -7,7 +7,7 @@
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge</p>
 
-## 🚀 About Me:
+# 💫 About Me:
 Certainly, Mehrajul Islam (Kaspie), a skilled front-end web developer, is known for crafting exceptional digital experiences with a combination of React.js, Next.js, JavaScript, and PHP. With a passion for creating dynamic and visually appealing websites, Kaspie seamlessly blends creativity and technical expertise to bring innovative ideas to life on the digital canvas. Their commitment to delivering user-friendly interfaces and responsive designs.
 
 ## 🧑‍💻Skills & Expereiance:
